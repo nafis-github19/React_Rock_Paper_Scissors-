@@ -1,5 +1,10 @@
 import React from 'react';
 
+
+const scissors = "";
+const rock = "";
+const paper = "";
+
 const PlayerCard = (props) =>{
 
   return(
